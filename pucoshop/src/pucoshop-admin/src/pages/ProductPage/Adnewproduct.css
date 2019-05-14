@@ -1,0 +1,9 @@
+.fileupload .fileupload-new {
+ width: 200px;
+  height: 150px;
+}
+#btim{
+  max-width: 200px;
+   max-height: 150px;
+   line-height: 20px;
+}

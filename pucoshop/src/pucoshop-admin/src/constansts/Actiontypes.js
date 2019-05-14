@@ -1,0 +1,40 @@
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const FIND_PRODUCT = 'FIND_PRODUCT';
+
+export const SEND_MAIL = 'SEND_MAIL';
+
+export const FETCH_CATEGORIES = 'FETCH_CATEGORIES';
+export const ADD_CATEGORY = 'ADD_CATEGORY';
+export const UPDATE_CATEGORY = 'UPDATE_CATEGORY';
+export const FIND_CATEGORY = 'FIND_CATEGORY';
+export const DELETE_CATEGORY = 'DELETE_CATEGORY';
+
+
+export const FETCH_CART = 'FETCH_CART';
+export const ADD_CART = 'ADD_CART';
+export const DELETE_CART = 'DELETE_CART';
+export const UPDATE_CART = 'UPDATE_CART';
+export const FIND_CART = 'FIND_CART';
+
+export const FETCH_USER = 'FETCH_USER';
+export const ADD_USER = 'ADD_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const UPDATE_USER = 'UPDATE_USER';
+export const FIND_USER = 'FIND_USER';
+
+export const FETCH_ORDER = 'FETCH_ORDER';
+export const ADD_ORDER = 'ADD_ORDER';
+export const DELETE_ORDER = 'DELETE_ORDER';
+export const UPDATE_ORDER = 'UPDATE_ORDER';
+export const FIND_ORDER = 'FIND_ORDER';
+
+export const FETCH_ORDERDETAIL = 'FETCH_ORDERDETAIL';
+export const ADD_ORDERDETAIL = 'ADD_ORDERDETAIL';
+export const DELETE_ORDERDETAIL = 'DELETE_ORDERDETAIL';
+export const UPDATE_ORDERDETAIL = 'UPDATE_ORDERDETAIL';
+export const FIND_ORDERDETAIL = 'FIND_ORDERDETAIL';
+
+export const FETCH_ORDERDETAILM = 'FETCH_ORDERDETAILM';
+export const FETCH_ORDERDETAILW= 'FETCH_ORDERDETAILW';
